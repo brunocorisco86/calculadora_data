@@ -26,7 +26,7 @@ Este é um script Python que permite ao usuário inserir uma data e obter inform
 3. Execute o script com o comando:
 
     ```bash
-    python nome_do_script.py
+    calculadora_data.py
     ```
 
 4. O programa exibirá a data atual, o nome do dia da semana e o número da semana.
