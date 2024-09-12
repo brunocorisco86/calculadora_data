@@ -37,13 +37,26 @@ Este é um script Python que permite ao usuário inserir uma data e obter inform
 
 ## Executável para Windows
 
-Agora também disponibilizamos uma versão executável para Windows. Siga os passos abaixo para usar:
+Agora também disponibilizamos uma versão executável para Windows. Você pode encontrá-la na pasta `dist`. Siga os passos abaixo para usar:
 
-1. Baixe o arquivo executável.
+1. Baixe o arquivo executável do diretório `dist`.
 2. Dê um duplo clique no executável `calculadora_data.exe`.
 3. Siga as instruções da interface, semelhante ao uso descrito acima.
 
 ## Exemplo de Uso
+
+Aqui estão alguns exemplos de como a calculadora funciona:
+
+### Tela Inicial
+![Tela Inicial](imagens/tela_inicial.png)
+
+### Primeira Interação
+![Primeira Resposta](imagens/informacao1.png)
+
+### Segunda Interação
+![Segunda Resposta](imagens/informacao2.png)
+
+## Exemplo Completo no Console
 
 ```bash
 Hoje é: 29/08/24 | Quinta-feira | Número da semana: 35
