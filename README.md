@@ -35,6 +35,14 @@ Este é um script Python que permite ao usuário inserir uma data e obter inform
 
 6. Após cada consulta, o programa perguntará se você deseja inserir outra data. Digite `S` para continuar ou `N` para sair.
 
+## Executável para Windows
+
+Agora também disponibilizamos uma versão executável para Windows. Você pode encontrá-la na pasta `dist`. Siga os passos abaixo para usar:
+
+1. Baixe o arquivo executável do diretório `dist`.
+2. Dê um duplo clique no executável `calculadora_data.exe`.
+3. Siga as instruções da interface, semelhante ao uso descrito acima.
+
 ## Exemplo de Uso
 
 ```bash
