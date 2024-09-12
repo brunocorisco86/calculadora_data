@@ -37,9 +37,9 @@ Este é um script Python que permite ao usuário inserir uma data e obter inform
 
 ## Executável para Windows
 
-Agora também disponibilizamos uma versão executável para Windows. Você pode encontrá-la na pasta `dist`. Siga os passos abaixo para usar:
+Agora também disponibilizamos uma versão executável para Windows. Siga os passos abaixo para usar:
 
-1. Baixe o arquivo executável do diretório `dist`.
+1. Baixe o arquivo executável.
 2. Dê um duplo clique no executável `calculadora_data.exe`.
 3. Siga as instruções da interface, semelhante ao uso descrito acima.
 
