@@ -54,7 +54,7 @@ Aqui estão alguns exemplos de como a calculadora funciona:
 ![Primeira Resposta](imagens/informacao1.png)
 
 ### Segunda Interação
-![Segunda Resposta](imagens/informacao2.png)
+![Segunda Resposta](imagens/informação2.png)
 
 ## Exemplo Completo no Console
 
